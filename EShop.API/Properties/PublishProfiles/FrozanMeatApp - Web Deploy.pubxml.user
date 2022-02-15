@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiURl78UZHESIuX/z2yKpQQAAAAACAAAAAAAQZgAAAAEAACAAAAC3IfSmHG5EoBHLeKv+SiuVzpuwCyU58nSQqQj55H6yNgAAAAAOgAAAAAIAACAAAABUDqt4KOTOvpVA2fcAyUf6uTSBKr06/IUM3Va41JXePYAAAAAJUIYg5zsZCHy3+U8fcBMsFS41MP/nk89ATEGSAN5VmxC4dIqM+5RfjFi9nf1sV+487P0Nf4CNse1ibXL5n2Wy30oMlpPDwzLlq+mpc4Y6dQsc8db6mQuo9QzlPyyz+dhxZDH9QIS3ebWsOCG07PsaQJTTsPptgeIVt7kx+WtkokAAAACVTci5ygfyUzUXP60Ti1hgzy8AX5ZffmWX+hJ9YxGx0T94PTySCzAxJWt1nq5w6HqH1/DfwLFCcSq7xKoMKSAX</EncryptedPassword>
+    <History>True|2021-09-07T17:31:18.4093123Z;True|2021-09-06T15:03:19.9520079+05:30;True|2021-09-06T14:55:24.0136869+05:30;True|2021-09-06T14:48:41.4777469+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="EShop.Persistence.DataContext">
+      <Value>Data Source=tcp:frozanmeatapidbserver.database.windows.net,1433%3bInitial Catalog=FrozanMeat_db%3bUser Id=towseef85%40gmail.com%40frozanmeatapidbserver%3bPassword=ZytCode_1985</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

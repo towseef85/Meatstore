@@ -1,0 +1,24 @@
+.carousel-item{
+    height: 430px;
+}
+
+.heading-text{
+    color: tomato;
+}
+
+.d-flex .btn-secondary {
+    background-color: tomato !important;
+    border: tomato !important;
+}
+
+.img-fluid{
+    height: 210px;
+    border-radius: 5px;
+}
+
+.food-items .card{
+    border-radius: 7px;
+}
+.text-area h6{
+    font-size: 14px;
+}

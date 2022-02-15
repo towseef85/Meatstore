@@ -1,0 +1,25 @@
+.dropdown .btn{
+    background-color: transparent;
+    border: none;
+    font-size: 13px;
+    padding: 0 !important;
+}
+
+.dropdown .btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.dropdown-menu {
+    font-size: 13px;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background-color: #f8f9fa!important;
+}
+.dropdown-menu:hover {
+    background-color: #f8f9fa!important;
+}
+.dropdown-item{
+    color: gray !important;
+}

@@ -1,0 +1,12 @@
+D:\Project_20-21\EShop\EShop.Domain\bin\Release\net5.0\EShop.Domain.deps.json
+D:\Project_20-21\EShop\EShop.Domain\bin\Release\net5.0\EShop.Domain.dll
+D:\Project_20-21\EShop\EShop.Domain\bin\Release\net5.0\ref\EShop.Domain.dll
+D:\Project_20-21\EShop\EShop.Domain\bin\Release\net5.0\EShop.Domain.pdb
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.csprojAssemblyReference.cache
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.AssemblyInfoInputs.cache
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.AssemblyInfo.cs
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.csproj.CoreCompileInputs.cache
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.dll
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\ref\EShop.Domain.dll
+D:\Project_20-21\EShop\EShop.Domain\obj\Release\net5.0\EShop.Domain.pdb

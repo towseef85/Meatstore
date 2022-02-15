@@ -1,0 +1,35 @@
+.footer{
+    margin-top: 150px;
+  }
+  
+  .homeschool-footer{
+    margin-bottom: 50px;
+  }
+  
+  .homeschool-footer ul li a{
+    text-decoration: none !important;
+    color: #000;
+  }
+  .homeschool-footer p{
+    font-size: 13px;
+  }
+  
+  .homeschool-footer ul li i{
+    font-size: 11px;
+    margin-right: 7px;
+    color: #57BDB9;
+    font-weight: bold;
+  }
+  
+  .homeschool-footer ul li a:hover{
+    color: #57BDB9;
+  }
+  
+  .footer-bottom{
+    color: #6c757d;
+    height: 30px;
+    font-size: 13px;
+    padding-top: 5px;
+    background-color: #ecf1f3;
+  
+  }

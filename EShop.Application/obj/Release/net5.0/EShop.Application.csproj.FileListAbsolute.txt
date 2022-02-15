@@ -1,0 +1,17 @@
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Application.deps.json
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Application.dll
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\ref\EShop.Application.dll
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Application.pdb
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Domain.dll
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Persistence.dll
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Persistence.pdb
+D:\Project_20-21\EShop\EShop.Application\bin\Release\net5.0\EShop.Domain.pdb
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.csprojAssemblyReference.cache
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.AssemblyInfoInputs.cache
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.AssemblyInfo.cs
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.csproj.CoreCompileInputs.cache
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.csproj.CopyComplete
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.dll
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\ref\EShop.Application.dll
+D:\Project_20-21\EShop\EShop.Application\obj\Release\net5.0\EShop.Application.pdb

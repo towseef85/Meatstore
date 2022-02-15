@@ -1,0 +1,124 @@
+
+nav{
+    height: 80px !important;
+}
+.bg-color{
+    background-color: white;
+}
+
+.navbar-brand{
+    text-decoration: none;
+    font-size: 29px;
+    font-weight: 700;
+}
+.active{
+    color: tomato;
+}
+
+.search-tag, .login-link, .location-list .nav-link {
+    margin-top: 19px;
+}
+.search-input{
+    margin-top: 3px !important;
+}
+
+.search-tag .btn {
+    background-color: transparent;
+    margin-left: -43px;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 30px 0 0;
+}
+
+.search-input{
+    margin-right: 100px !important;
+}
+.search-input input {
+    min-width: 300px;
+}
+.login-item{
+    margin-right: 80px !important;
+}
+
+.location-list, .search-input{
+    padding: 0 20px 0 30px;
+}
+
+.login-link i{
+    margin-right: 7px;
+    font-size: 27px;
+    color: tomato;
+}
+
+.location i {
+    font-size: 31px;
+    margin-right: 5px;
+    color: tomato;
+}
+.location span{
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+}
+
+.fa-stack[data-count]:after{
+    position: absolute;
+    right: 10%;
+    top: 7%;
+    content: attr(data-count);
+    font-size: 11px;
+    padding: .3em;
+    border-radius: 999px;
+    line-height: .8em;
+    color: tomato;
+    text-align:center;
+    min-width: 2.1em;
+    font-weight: 600;
+    background: white;
+    border-style: solid;
+}
+.fa-shopping-cart {
+    color: tomato;
+}
+
+@media screen and (max-width: 1199) {
+    .location-list, .search-input{
+        padding: 0px;
+    }
+}
+
+.selected{
+    color: tomato;
+}
+
+/* --- Navigation Bar --- */
+
+.navigation-area{
+    background-color: #f8f9fa!important;
+    padding: 5px 0 2px 0;
+    box-shadow: 0px 2px 2px 0px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+.navigation-link{
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+}
+.navigation-link:hover{
+    color: tomato;
+}
+.icon-area{
+    margin-bottom: 11px;
+    margin-top: 11px;
+}
+/* .icon-circle{
+    border: 1px solid gray;
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;
+    padding: 21px 11px;
+    
+} */
+.navigation-link .text-area h6{
+    font-weight: 400;
+}

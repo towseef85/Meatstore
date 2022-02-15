@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Project_20-21\EShop\EShop.API\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="D:\Project_20-21\EShop\EShop.API\obj\Release\net5.0\PubTmp\EFSQLScripts\EShop.Persistence.DataContext.sql" />
+</sitemanifest>
